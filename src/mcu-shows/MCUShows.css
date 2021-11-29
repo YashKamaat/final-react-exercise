@@ -1,0 +1,16 @@
+/*4B*/
+.MCUShows {
+    border: 10px solid
+    #25374f;
+    width: 500px;
+    padding: 10px;
+    margin:  0 auto;
+    background-color: #253727;
+    color: rgba(255, 255, 255, 0.9);
+
+}
+
+/*4C*/
+.MCUShows h1 {
+    text-align: center;
+}
